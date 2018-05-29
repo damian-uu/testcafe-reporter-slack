@@ -32,12 +32,12 @@
     "normalize-newline": "^1.0.2",
     "publish-please": "^2.1.4",
     "read-file-relative": "^1.2.0",
-    "testcafe": "^0.2.0-alpha"
+    "testcafe": "^0.19.1"
   },
   "dependencies": {
     "slack-node": "^0.1.8",
     "dotenv": "^4.0.0",
-    "envs": "^0.1.6"
+    "envs": "^2.6.9"
   },
   "bugs": {
     "url": "https://github.com/damian-uu/testcafe-reporter-slack/issues"
