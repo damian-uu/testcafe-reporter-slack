@@ -1,5 +1,7 @@
 # TestCafe Reporter Slack 
-###testcafe-reporter-slack
+###testcafe-reporter-slacklite
+
+##Note this is a quick and dirty fork of testcafe-reporter-slack to strip out everything but the start and end report.
 
 This is a reporter for [TestCafe](http://devexpress.github.io/testcafe). It sends the output of the test to slack. 
 
