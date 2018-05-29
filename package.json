@@ -4,12 +4,9 @@
   "description": "TestCafe slack reporter plugin.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:damian-uu/testcafe-reporter-slack.git"
+    "url": "git+ssh://git@github.com/damian-uu/testcafe-reporter-slack.git"
   },
-  "author": {
-    "name": "Damian Spriggs",
-    "email": "damian@uniteus.com"
-  },
+  "author": "Damian Spriggs <damian@uniteus.com>",
   "main": "lib/index",
   "files": [
     "lib"
@@ -41,5 +38,14 @@
     "slack-node": "^0.1.8",
     "dotenv": "^4.0.0",
     "envs": "^0.1.6"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/damian-uu/testcafe-reporter-slack/issues"
+  },
+  "homepage": "https://github.com/damian-uu/testcafe-reporter-slack#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "license": "ISC"
 }
