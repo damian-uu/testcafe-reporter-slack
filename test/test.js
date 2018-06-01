@@ -24,3 +24,4 @@ it('Should produce report without colors', function () {
 
     // assert.strictEqual(report, expected);
 });
+
